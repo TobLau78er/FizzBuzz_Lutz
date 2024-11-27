@@ -1,0 +1,15 @@
+C:\Users\LauerTobias\source\repos\20241120_Übungs-Projektmappe_TL\FizzBuzz_Lutz\bin\Debug\net8.0\FizzBuzz_Lutz.exe
+C:\Users\LauerTobias\source\repos\20241120_Übungs-Projektmappe_TL\FizzBuzz_Lutz\bin\Debug\net8.0\FizzBuzz_Lutz.deps.json
+C:\Users\LauerTobias\source\repos\20241120_Übungs-Projektmappe_TL\FizzBuzz_Lutz\bin\Debug\net8.0\FizzBuzz_Lutz.runtimeconfig.json
+C:\Users\LauerTobias\source\repos\20241120_Übungs-Projektmappe_TL\FizzBuzz_Lutz\bin\Debug\net8.0\FizzBuzz_Lutz.dll
+C:\Users\LauerTobias\source\repos\20241120_Übungs-Projektmappe_TL\FizzBuzz_Lutz\bin\Debug\net8.0\FizzBuzz_Lutz.pdb
+C:\Users\LauerTobias\source\repos\20241120_Übungs-Projektmappe_TL\FizzBuzz_Lutz\obj\Debug\net8.0\FizzBuzz_Lutz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LauerTobias\source\repos\20241120_Übungs-Projektmappe_TL\FizzBuzz_Lutz\obj\Debug\net8.0\FizzBuzz_Lutz.AssemblyInfoInputs.cache
+C:\Users\LauerTobias\source\repos\20241120_Übungs-Projektmappe_TL\FizzBuzz_Lutz\obj\Debug\net8.0\FizzBuzz_Lutz.AssemblyInfo.cs
+C:\Users\LauerTobias\source\repos\20241120_Übungs-Projektmappe_TL\FizzBuzz_Lutz\obj\Debug\net8.0\FizzBuzz_Lutz.csproj.CoreCompileInputs.cache
+C:\Users\LauerTobias\source\repos\20241120_Übungs-Projektmappe_TL\FizzBuzz_Lutz\obj\Debug\net8.0\FizzBuzz_Lutz.sourcelink.json
+C:\Users\LauerTobias\source\repos\20241120_Übungs-Projektmappe_TL\FizzBuzz_Lutz\obj\Debug\net8.0\FizzBuzz_Lutz.dll
+C:\Users\LauerTobias\source\repos\20241120_Übungs-Projektmappe_TL\FizzBuzz_Lutz\obj\Debug\net8.0\refint\FizzBuzz_Lutz.dll
+C:\Users\LauerTobias\source\repos\20241120_Übungs-Projektmappe_TL\FizzBuzz_Lutz\obj\Debug\net8.0\FizzBuzz_Lutz.pdb
+C:\Users\LauerTobias\source\repos\20241120_Übungs-Projektmappe_TL\FizzBuzz_Lutz\obj\Debug\net8.0\FizzBuzz_Lutz.genruntimeconfig.cache
+C:\Users\LauerTobias\source\repos\20241120_Übungs-Projektmappe_TL\FizzBuzz_Lutz\obj\Debug\net8.0\ref\FizzBuzz_Lutz.dll
